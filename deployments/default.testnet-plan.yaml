@@ -1,0 +1,18 @@
+---
+id: 0
+name: Testnet deployment
+network: testnet
+stacks-node: "https://api.testnet.hiro.so"
+bitcoin-node: "http://blockstack:blockstacksystem@bitcoind.testnet.stacks.co:18332"
+plan:
+  batches:
+    - id: 0
+      transactions:
+        - contract-publish:
+            contract-name: FarmEquipmentSharing
+            expected-sender: STZPBCWRNG81ZVSKT6V05VVJ5EKAWT6AEGAYERVC
+            cost: 57850
+            path: "contracts\\FarmEquipmentSharing.clar"
+            anchor-block-only: true
+            clarity-version: 3
+      epoch: "3.2"
