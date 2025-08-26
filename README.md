@@ -54,15 +54,9 @@ Our vision is to create a sustainable and inclusive agricultural ecosystem where
 
 ## Contract Address Details
 
-**Network**: Stacks Mainnet  
-**Contract Address**: [To be added upon deployment]  
-**Contract Name**: farm-equipment-sharing  
-**Deployment Block**: [To be added]  
-**Transaction ID**: [To be added]  
-
 **Testnet Information**:  
 **Network**: Stacks Testnet  
 **Contract Address**: STZPBCWRNG81ZVSKT6V05VVJ5EKAWT6AEGAYERVC.FarmEquipmentSharing
 <img width="1920" height="1020" alt="Screenshot 2025-08-26 121639" src="https://github.com/user-attachments/assets/605ee215-d478-4bfc-9bcd-b66e49ff8bea" />
 
-**Faucet**: [Stacks Testnet Faucet URL for testing]
+**Faucet**: Use your own Faucet while testing
