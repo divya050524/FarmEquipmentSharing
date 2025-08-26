@@ -41,10 +41,12 @@ Cooperative Features: Enable formation of equipment sharing cooperatives and gro
 Research Integration: Partner with agricultural research institutions for data-driven insights
 Contract Address Details
 Network: Stacks Mainnet
-Contract Address: [To be added upon deployment]
+Contract Address: STZPBCWRNG81ZVSKT6V05VVJ5EKAWT6AEGAYERVC.FarmEquipmentSharing
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/65206c73-836f-45bd-8b4d-27d7a20541cf" />
+
 Contract Name: farm-equipment-sharing
 Deployment Block: [To be added]
-Transaction ID: [To be added]
+Transaction ID: 0x834a95e1a316c59048f6a2cb1cde626fad2bbf7ff47ee67e11466a0a9314eb8e
 
 Testnet Information:
 Network: Stacks Testnet
